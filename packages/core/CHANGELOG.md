@@ -1,5 +1,11 @@
 # ponder
 
+## 0.14.1
+
+### Patch Changes
+
+- [#2118](https://github.com/ponder-sh/ponder/pull/2118) [`c7dd63d`](https://github.com/ponder-sh/ponder/commit/c7dd63d1cdcc8c4174ea7022fd16c9fea9457890) Thanks [@kyscott18](https://github.com/kyscott18)! - Fixed a bug with `event.transaction` that caused `TypeError: Cannot read properties of undefined (reading 'hash')`.
+
 ## 0.14.0
 
 ### Minor Changes
